@@ -6,7 +6,7 @@ A modern, responsive, and elegant website for **Academic Hub**, an academic writ
 
 - **Multi-Page Architecture**:
   - `index.html`: Modern landing page with interactive canvas particle animations, stats counter, and service overviews.
-  - `services.html`: Comprehensive breakdown of 8 academic service offerings (research paper writing, complete thesis writing, assignment writing, SPSS/Python/MATLAB data analysis, machine learning code implementation, proofreading & formatting, proposals & synopsis, and presentation/viva preparation).
+  - `services.html`: Comprehensive breakdown of 8 academic service offerings (complete thesis & dissertation writing, research papers & journal articles, assignments & essays, systematic literature reviews, research proposals & synopsis, empirical data analysis, academic proofreading & formatting, and defense presentation/viva preparation).
   - `how-it-works.html`: Clear 4-step workflow explaining the consultation and delivery process.
   - `reviews.html`: Testimonials from university students and researchers across Pakistan.
   - `about.html`: Team overview highlighting collaborative multi-disciplinary academic working groups.
